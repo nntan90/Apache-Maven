@@ -45,7 +45,7 @@ Ví dụ file .pom
 Khi một project do nhiều nhóm phát triển ví dụ có 2 team cùng tham gia dự án, 2 team đó ở 2 quốc gia khác nhau vì thế chúng ta luôn cần có một sự liên lạc để thông nhất trong việc lập trình vì thế phải có một cái chuẩn nào đó để tất cả mọi người cùng tuân theo, như trong việc sử dụng những thư viện nào, version của thư viện tất cả những thứ như vậy đều được Maven quản lý.
 Đối với những hệ thống lớn, phức tạp sử dụng nhiều thư viện lại đòi hỏi phải release liên tục cho nên công việc đóng gói (build & deploy), quản lý, nâng cấp và bào trì chúng rất mất thời gian, và lúc đó ta có Maven.
 
-4 Cài đặt Maven
+4. Cài đặt Maven
 https://maven.apache.org/guides/getting-started/windows-prerequisites.html
 
 Kiểm tra Maven đã đượccài đặt
