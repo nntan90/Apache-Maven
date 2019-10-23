@@ -9,7 +9,8 @@
 2. Maven hoạt động như nào?
 - Maven dùng khái niệm Project Object Model (POM) để mô tả việc build project, các thành phần phụ thuộc và các module. Nó định nghĩa trước các target cho việc khai báo task, trình biên dịch, đóng gói và thứ tự hoạt động để mọi việc diến ra tốt nhất.
 - Trong mỗi project Maven tạo ra một file .pom, trong file này định nghĩa ra những task như task khi chạy test, task khi build và khi chạy Maven sẽ dựa vào những định nghĩa này để thao tác với project.
-- Ví dụ file .pom
+- Ví dụ file.pom
+
 <code>
 <!-- .pom -->
 <project>
